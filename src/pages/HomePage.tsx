@@ -23,7 +23,7 @@ export function HomePage() {
     <>
       <section className="hero">
         <div className="hero__media">
-          <SmartImage src="/images/hero.jpg" alt="A couple cooking together in a bright kitchen" loading="eager" />
+          <SmartImage src="/images/kitchen-burner.jpg" alt="A stovetop burner glowing in a warm kitchen" loading="eager" />
           <div className="hero__scrim" />
         </div>
         <div className="shell hero__content">
