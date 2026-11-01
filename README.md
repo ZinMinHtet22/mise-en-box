@@ -2,29 +2,27 @@
 
 > Weekly meal-kit e-commerce SPA with recipes, meal planner, cart, pantry stock, gift boxes, and luxury dark mode.
 
-
 ---
 
-## 📸 Screenshot
-
+##  Screenshot
 
 > Replace `screenshot.png` with an actual screenshot of your app running locally or on the live demo.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🍽️ **Recipe browsing** — discover weekly meal-kit recipes
-- 📅 **Meal planner** — plan your meals ahead of time
-- 🛒 **Shopping cart** — add items and checkout
-- 📦 **Pantry stock** — track ingredients you already have
-- 🎁 **Gift boxes** — purchase curated meal-kit gift sets
-- 🌙 **Luxury dark mode** — elegant dark-themed UI
-- ⚡ **Fast performance** — built with Vite for instant hot reload and optimized builds
+-  **Recipe browsing** — discover weekly meal-kit recipes
+-  **Meal planner** — plan your meals ahead of time
+-  **Shopping cart** — add items and checkout
+-  **Pantry stock** — track ingredients you already have
+-  **Gift boxes** — purchase curated meal-kit gift sets
+-  **Luxury dark mode** — elegant dark-themed UI
+-  **Fast performance** — built with Vite for instant hot reload and optimized builds
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -37,7 +35,7 @@
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repository
@@ -67,13 +65,13 @@ npm run preview
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-🔗 [https://vellum-frontend-three.vercel.app](https://vellum-frontend-three.vercel.app)
+ [https://vellum-frontend-three.vercel.app](https://vellum-frontend-three.vercel.app)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 mise-en-box/
@@ -95,7 +93,7 @@ mise-en-box/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
@@ -107,13 +105,13 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 
 **Jeffery Zin Min Htet**  
 Full-Stack Developer | IT Engineer | Content Developer  
@@ -124,4 +122,4 @@ Yangon, Myanmar
 
 ---
 
-> ⭐ Star this repo if you find it useful!
+>  Star this repo if you find it useful!
