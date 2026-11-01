@@ -2,18 +2,11 @@
 
 > Weekly meal-kit e-commerce SPA with recipes, meal planner, cart, pantry stock, gift boxes, and luxury dark mode.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://vellum-frontend-three.vercel.app)
-[![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
-[![React Router](https://img.shields.io/badge/React%20Router-6.x-CA4245?style=for-the-badge&logo=reactrouter)](https://reactrouter.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-06B6D4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 
 ---
 
 ## 📸 Screenshot
 
-![Mise en Box Screenshot](screenshot.png)
 
 > Replace `screenshot.png` with an actual screenshot of your app running locally or on the live demo.
 
